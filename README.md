@@ -10,23 +10,23 @@
 
 1- *Both June and December have high temperatures to support ice cream sales*
 
-**Temps             June                                December**
+**Temps                            June                                December**
 
-count	               1700.000000                        1517.000000
+count	                             1700.000000                        1517.000000
 
-mean	               74.944118                          71.041529
+mean	                             74.944118                          71.041529
 
-std	                 3.257417                           3.745920
+std	                             3.257417                           3.745920
 
-min	                 64.000000                          56.000000 
+min	                             64.000000                          56.000000 
 
-25% 	               73.000000                          69.000000
+25% 	                             73.000000                          69.000000
 
-50%	                 75.000000                          71.000000
+50%	                             75.000000                          71.000000
+      
+75%	                             77.000000                          74.000000
 
-75%	                 77.000000                          74.000000
-
-max	                 85.000000                          83.000000 
+max	                             85.000000                          83.000000 
 
 
 High temeratures in both June as well as December means that the business can operate year-round regadless the sasons.
